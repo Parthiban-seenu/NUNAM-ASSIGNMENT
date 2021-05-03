@@ -1,20 +1,20 @@
 # NUNAM-ASSIGNMENT
 
 Task 1:
- 	The given two data files are:
-        1.	data.xlsx
-        2.	data_1.xlsx
-  Converting two given data files to .csv files
-        1.	data.csv
-        2.	data_1.csv
-  Combining two csv files to detail.csv file, Combining two csv files to detailVol.csv, Combining two csv files to detailTemp.csv file using python
+The given two data files are:
+1.	data.xlsx
+2.	data_1.xlsx
+Converting two given data files to .csv files
+1.	data.csv
+2.	data_1.csv
+Combining two csv files to detail.csv file, Combining two csv files to detailVol.csv, Combining two csv files to detailTemp.csv file using python
   
-  The source code is given in the .py file named Nunam_task1
+The source code is given in the .py file named Nunam_task1
   
 Task 2:
- 	Apply down-sampling method to reduce the sampling rate to 1 sample/minute
-        1.	Importing pandas as pd
-        2.	Importing datetime as datetime
+Apply down-sampling method to reduce the sampling rate to 1 sample/minute
+1.	Importing pandas as pd
+2.	Importing datetime as datetime
         3.	By setting the low_memory argument to False
         4.	Reading detail.csv
         5.	Using down sampling fetching value of 04:23:15 in Record ID
@@ -46,5 +46,5 @@ Task 5:
         4.	special __name__ variable to have a value “__main__”.
   
   The source code and the output is gien in the .txt file named Nunam_task5
-![image](https://user-images.githubusercontent.com/59060867/116891172-05d0e400-ac4c-11eb-89b7-37c9195e6778.png)
+
 
